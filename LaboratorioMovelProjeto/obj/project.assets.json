@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor.perez\\Documents\\Projetos\\LaboratorioMovelProjeto\\LaboratorioMovelProjeto\\LaboratorioMovelProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\vitor.perez\\Documents\\Codigos\\Projeto pessoal\\LaboratorioMovelProjeto\\LaboratorioMovelProjeto\\LaboratorioMovelProjeto.csproj",
       "projectName": "LaboratorioMovelProjeto",
-      "projectPath": "C:\\Users\\vitor.perez\\Documents\\Projetos\\LaboratorioMovelProjeto\\LaboratorioMovelProjeto\\LaboratorioMovelProjeto.csproj",
+      "projectPath": "C:\\Users\\vitor.perez\\Documents\\Codigos\\Projeto pessoal\\LaboratorioMovelProjeto\\LaboratorioMovelProjeto\\LaboratorioMovelProjeto.csproj",
       "packagesPath": "C:\\Users\\vitor.perez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor.perez\\Documents\\Projetos\\LaboratorioMovelProjeto\\LaboratorioMovelProjeto\\obj\\",
+      "outputPath": "C:\\Users\\vitor.perez\\Documents\\Codigos\\Projeto pessoal\\LaboratorioMovelProjeto\\LaboratorioMovelProjeto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vitor.perez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

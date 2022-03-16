@@ -117,3 +117,46 @@ C:\Users\vitor.perez\Documents\Projetos\LaboratorioMovelProjeto\LaboratorioMovel
 C:\Users\vitor.perez\Documents\Projetos\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.genruntimeconfig.cache
 C:\Users\vitor.perez\Documents\Projetos\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.csproj.CopyComplete
 C:\Users\vitor.perez\Documents\Projetos\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\Razor\Views\Professor\NovoProfessor.cshtml.g.cs
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\bin\Debug\netcoreapp3.1\LaboratorioMovelProjeto.exe
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\bin\Debug\netcoreapp3.1\LaboratorioMovelProjeto.deps.json
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\bin\Debug\netcoreapp3.1\LaboratorioMovelProjeto.runtimeconfig.json
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\bin\Debug\netcoreapp3.1\LaboratorioMovelProjeto.runtimeconfig.dev.json
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\bin\Debug\netcoreapp3.1\LaboratorioMovelProjeto.dll
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\bin\Debug\netcoreapp3.1\LaboratorioMovelProjeto.pdb
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\bin\Debug\netcoreapp3.1\LaboratorioMovelProjeto.Views.dll
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\bin\Debug\netcoreapp3.1\LaboratorioMovelProjeto.Views.pdb
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.csproj.AssemblyReference.cache
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.AssemblyInfoInputs.cache
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.AssemblyInfo.cs
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.csproj.CoreCompileInputs.cache
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.RazorAssemblyInfo.cache
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.RazorAssemblyInfo.cs
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\staticwebassets\LaboratorioMovelProjeto.StaticWebAssets.Manifest.cache
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\staticwebassets\LaboratorioMovelProjeto.StaticWebAssets.xml
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\scopedcss\bundle\LaboratorioMovelProjeto.styles.css
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.TagHelpers.input.cache
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.TagHelpers.output.cache
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.RazorCoreGenerate.cache
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\Razor\Views\Professor\Help.cshtml.g.cs
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\Razor\Views\Professor\Index.cshtml.g.cs
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\Razor\Views\Professor\NovoProfessor.cshtml.g.cs
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.RazorTargetAssemblyInfo.cache
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.RazorTargetAssemblyInfo.cs
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.Views.pdb
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.dll
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.pdb
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.genruntimeconfig.cache
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.csproj.CopyComplete
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\Razor\Views\Professor\Sucesso.cshtml.g.cs
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\Razor\Views\Professor\EditarProfessor.cshtml.g.cs
