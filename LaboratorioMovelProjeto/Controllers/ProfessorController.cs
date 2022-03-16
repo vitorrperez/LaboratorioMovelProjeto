@@ -8,11 +8,18 @@ namespace LaboratorioMovelProjeto.Controllers
 {
     public class ProfessorController : Controller
     {
+        [HttpGet]
         public IActionResult Index()
         {
             return View();
         }
 
+        public IActionResult NovoProfessor()
+        {
+            return View();
+        }
+
+        [HttpGet]
         public IActionResult Help()
         {
             return View();
