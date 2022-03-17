@@ -33,29 +33,118 @@ namespace LaboratorioMovelProjeto.Controllers
             return View("Sucesso");
         }
 
+        //Exibir dados de edição
         [HttpGet]
-        public IActionResult Editar()
+        public IActionResult Editar(int id)
         {
-            return View("EditarProfessor");
+            ProfessorModel professorModel = new ProfessorModel();
+
+            if (id == 1)
+            {
+                professorModel = new ProfessorModel
+                {
+                    ProfessorId = 1,
+                    Nome = "Vitor",
+                    Email = "vitorperez@gmail.com",
+                    DataNascimento = DateTime.Now,
+                    Observacao = "EAE VITÃO",
+                };
+            }
+            else if (id == 2)
+            {
+                professorModel = new ProfessorModel
+                {
+                    ProfessorId = 2,
+                    Nome = "Fernando",
+                    Email = "fernando@gmail.com",
+                    DataNascimento = DateTime.Now,
+                    Observacao = "EAE FERNANDO",
+                };
+            }
+            else if (id == 3)
+            {
+                professorModel = new ProfessorModel
+                {
+                    ProfessorId = 3,
+                    Nome = "Paulo",
+                    Email = "paulo@gmail.com",
+                    DataNascimento = DateTime.Now,
+                    Observacao = "EAE PAULO",
+                };
+
+            }
+            else if (id == 4)
+            {
+                professorModel = new ProfessorModel
+                {
+                    ProfessorId = 2,
+                    Nome = "Marcelo",
+                    Email = "marcelo@gmail.com",
+                    DataNascimento = DateTime.Now,
+                    Observacao = "EAE MARCELO",
+                };
+            }
+
+
+            return View(professorModel);
         }
 
 
         [HttpGet]
-        public IActionResult Help()
+        public IActionResult Detalhe( int id)
         {
-            return View();
+            ProfessorModel professorModel = new ProfessorModel();
+
+            if (id == 1)
+            {
+                professorModel = new ProfessorModel
+                {
+                    ProfessorId = 1,
+                    Nome = "Vitor",
+                    Email = "vitorperez@gmail.com",
+                    DataNascimento = DateTime.Now,
+                    Observacao = "EAE VITÃO",
+                };
+            }
+            else if (id == 2)
+            {
+                professorModel = new ProfessorModel
+                {
+                    ProfessorId = 2,
+                    Nome = "Fernando",
+                    Email = "fernando@gmail.com",
+                    DataNascimento = DateTime.Now,
+                    Observacao = "EAE FERNANDO",
+                };
+            }
+            else if (id == 3)
+            {
+                professorModel = new ProfessorModel
+                {
+                    ProfessorId = 3,
+                    Nome = "Paulo",
+                    Email = "paulo@gmail.com",
+                    DataNascimento = DateTime.Now,
+                    Observacao = "EAE PAULO",
+                };
+
+            }
+            else if (id == 4)
+            {
+                professorModel = new ProfessorModel
+                {
+                    ProfessorId = 2,
+                    Nome = "Marcelo",
+                    Email = "marcelo@gmail.com",
+                    DataNascimento = DateTime.Now,
+                    Observacao = "EAE MARCELO",
+                };
+            }
+
+
+            return View(professorModel);
         }
 
-        
 
-        public IActionResult Conteudo()
-        {
-            return Content("Retornando o conteúdo em String");
-        }
-
-        public IActionResult Redirect()
-        {
-            return RedirectToAction("Index", "Home");
-        }
     }
 }

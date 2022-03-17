@@ -159,4 +159,5 @@ C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\L
 C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.genruntimeconfig.cache
 C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\LaboratorioMovelProjeto.csproj.CopyComplete
 C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\Razor\Views\Professor\Sucesso.cshtml.g.cs
-C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\Razor\Views\Professor\EditarProfessor.cshtml.g.cs
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\Razor\Views\Professor\Editar.cshtml.g.cs
+C:\Users\vitor.perez\Documents\Codigos\Projeto pessoal\LaboratorioMovelProjeto\LaboratorioMovelProjeto\obj\Debug\netcoreapp3.1\Razor\Views\Professor\Detalhe.cshtml.g.cs
