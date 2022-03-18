@@ -14,7 +14,47 @@ namespace LaboratorioMovelProjeto.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            return View();
+            ProfessorModel professorModel = new ProfessorModel();
+
+            var listaProfessor = new List<ProfessorModel>();
+            listaProfessor.Add(new ProfessorModel
+            {
+                ProfessorId = 1,
+                Nome = "Vitor",
+                Email = "vitorrperez@gmail.com",
+                DataNascimento = DateTime.Now,
+                Observacao = "Teste"
+            });
+
+            listaProfessor.Add(new ProfessorModel
+            {
+                ProfessorId = 2,
+                Nome = "Samue",
+                Email = "samuel@gmail.com",
+                DataNascimento = DateTime.Now,
+                Observacao = "SAMUCA DA GALERA"
+            });
+
+            listaProfessor.Add(new ProfessorModel 
+            {
+                ProfessorId = 3,
+                Nome = "Marco",
+                Email = "marco@gmail.com",
+                DataNascimento = DateTime.Now,
+                Observacao = "MARCÃO QUERIDO NOS CLS"
+            });
+
+            listaProfessor.Add(new ProfessorModel 
+            {
+                ProfessorId = 4,
+                Nome = "Marcelo",
+                Email = "marcelo@gmail.com",
+                DataNascimento = DateTime.Now,
+                Observacao = "MARCELO QUE NGM CONHECE"
+            });
+
+
+            return View(listaProfessor);
         }
 
 
@@ -91,7 +131,7 @@ namespace LaboratorioMovelProjeto.Controllers
 
 
         [HttpGet]
-        public IActionResult Detalhe( int id)
+        public IActionResult Detalhe(int id)
         {
             ProfessorModel professorModel = new ProfessorModel();
 

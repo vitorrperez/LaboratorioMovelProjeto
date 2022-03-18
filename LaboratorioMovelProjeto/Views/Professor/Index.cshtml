@@ -1,4 +1,6 @@
-﻿@{
+﻿@model IEnumerable<ProfessorModel>
+
+@{
     ViewData["Title"] = "Professores Page";
 }
 
@@ -19,53 +21,27 @@
         </thead>
         <tbody>
 
-            <tr class="table">
-                <td>Vitor</td>
-                <td>#1</td>
-                <td >
-                    <a class="btn btn-primary" href="/Professor/Editar/1">Editar</a>
-                </td>
-                <td>
-                    <a class="btn btn-danger btn " href="/Professor/Detalhe/1">Detalhe</a>
-                </td>
+           
 
-            </tr>
+            @foreach (var professor in Model)
+            {
 
-            <tr>
-                <td>Fernando</td>
-                <td>#2</td>
-                <td>
-                    <a class="btn btn-primary" href="/Professor/Editar/2">Editar</a>
-                </td>
-                <td>
-                    <a class="btn btn-danger btn " href="/Professor/Detalhe/2">Detalhe</a>
-                </td>
-            </tr>
+                <tr>
+                    <td>@professor.Nome</td>
+                    <td>@professor.ProfessorId</td>
+                    <td>
+                        <a class="btn btn-primary" href="/Professor/Editar/@professor.ProfessorId">Editar</a>
+                    </td>
+                    <td>
+                        <a class="btn btn-danger btn " href="/Professor/Detalhe/@professor.ProfessorId">Detalhe</a>
+                    </td>
+                </tr>
 
-            <tr>
-                <td>Paulo</td>
-                <td>#3</td>
-                <td>
-                    <a class="btn btn-primary" href="/Professor/Editar/3">Editar</a>
-                </td>
-                <td>
-                    <a class="btn btn-danger btn " href="/Professor/Detalhe/3">Detalhe</a>
-                </td>
-            </tr>
-
-            <tr>
-                <td>Marcelo</td>
-                <td>#4</td>
-                <td>
-                    <a class="btn btn-primary" href="/Professor/Editar/4">Editar</a>
-                </td>
-                <td>
-                    <a class="btn btn-danger btn " href="/Professor/Detalhe/3">Detalhe</a>
-                </td>
-            </tr>
+            }
 
 
-        </tbody>
-    </table>
 
-</div>
+                </tbody>
+            </table>
+
+        </div>
